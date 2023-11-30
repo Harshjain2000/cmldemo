@@ -1,4 +1,4 @@
-name : CML1
+name : CML
 on : [push]
 jobs :
   runs-on : ubuntu-latest
